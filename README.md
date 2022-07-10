@@ -1,6 +1,9 @@
 # lse_da_covid_analysis
 LSE Covid Analysis with Python
 
+The main file, LSE_DA201_assignment_rachid_abu-hassan.ipynb, contains all the analysis and can be accessed as a Jupyter Notebook or as a python file. 
+
+Below are summaries of the general observations from the weekly assignments. 
 
 Week 2
 General Observations
@@ -21,3 +24,19 @@ Vaccine update reduced between the first and the second vaccine doses with 2,118
 Gibraltar had the highest number of individuals who received the first dose but not the second; 264,745 less people received the second dose.
 The general trend in vaccination starts slow with first doses; speeds up with some second doses (a few compared to the first doses). However, as expected, first doses start to reduce while second doses pick up drastically.
 All in all though, over time, the amount of vaccinations seem to slow down towards the end of the data set with the second doses. This could be a result of the data sample stopping before people receive their second dose.
+
+
+Week 4
+General Observations
+Around 95% of those who have had their first dose are fully vaccinated.
+The Province/State labeled as 'Others' is skewing the data.
+Deaths seem to have peaked only in very few Provinces / States such as British Virgin Islands. 
+Channel Islands has the highest recovery numbers. 
+
+
+Week 5
+General Observations
+Perhaps unsurprisingly, Covid, Covid19, China, and people are top of the list of hashtags and words used on twitter. 
+Greece and Athens are two other words that were used much at the time. Further to the review of the data set and cross checking with the news, numbers in Greece at the time where peaking. 
+
+
